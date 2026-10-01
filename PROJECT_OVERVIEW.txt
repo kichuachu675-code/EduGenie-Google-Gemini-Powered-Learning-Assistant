@@ -1,0 +1,4 @@
+EduGenie: Google Gemini Powered Learning Assistant
+Technology: Python, FastAPI, Jinja2, HTML, CSS.
+Workflow: enter a topic, choose level and mode, then generate structured learning content.
+The included demo engine is self-contained so it runs without an API key.
